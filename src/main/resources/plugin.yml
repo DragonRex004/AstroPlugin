@@ -1,0 +1,10 @@
+name: Astro_Plugin
+version: ${project.version}
+main: Astro_PLugin.AstroPlugin
+api-version: 1.16.5
+commands:
+  setspawn:
+  spawn:
+  taschenlampe:
+  entitymod:
+  setspawner:
